@@ -9,5 +9,5 @@ http://blog.csdn.net/qq_21358401/article/details/78623753
 
 ## directory structure
 .
-├── [root            4096]  Event        --Event transfer demo
-└── [root              42]  README.md    --doc
+├── [root            4096]  Event        --Event transfer demo  
+└── [root              42]  README.md    --doc  
