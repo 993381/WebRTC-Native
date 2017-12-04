@@ -11,3 +11,4 @@ http://blog.csdn.net/qq_21358401/article/details/78623753
 ├── [root            4096]  CritScope  
 ├── [root            4096]  Event  
 └── [root             352]  README.md  
+--- [root                ]  SharedScope
