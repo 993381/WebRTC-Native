@@ -13,3 +13,4 @@ http://blog.csdn.net/qq_21358401/article/details/78623753
 └── [root             352]  README.md  
 --- [root                ]  SharedScope
 --- [root                ]  MessageQueue
+--- [root                ]  SigSlot
